@@ -1,0 +1,1 @@
+O curso está sendo de bastante aprendizado para mim, aprendo coisas novas, principalmente em relação ao git, tenho certeza que após toda essa programação, terei uma evolução notória.
